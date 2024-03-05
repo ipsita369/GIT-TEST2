@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.improvementArea {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.statusSelect, textarea {
+  display: block;
+  margin-top: 10px;
+}
+
